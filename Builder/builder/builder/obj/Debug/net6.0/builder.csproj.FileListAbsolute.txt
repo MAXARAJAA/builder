@@ -1,0 +1,15 @@
+C:\Users\bohsh\Desktop\visual\Builder\builder\builder\bin\Debug\net6.0\builder.exe
+C:\Users\bohsh\Desktop\visual\Builder\builder\builder\bin\Debug\net6.0\builder.deps.json
+C:\Users\bohsh\Desktop\visual\Builder\builder\builder\bin\Debug\net6.0\builder.runtimeconfig.json
+C:\Users\bohsh\Desktop\visual\Builder\builder\builder\bin\Debug\net6.0\builder.dll
+C:\Users\bohsh\Desktop\visual\Builder\builder\builder\bin\Debug\net6.0\ref\builder.dll
+C:\Users\bohsh\Desktop\visual\Builder\builder\builder\bin\Debug\net6.0\builder.pdb
+C:\Users\bohsh\Desktop\visual\Builder\builder\builder\obj\Debug\net6.0\builder.csproj.AssemblyReference.cache
+C:\Users\bohsh\Desktop\visual\Builder\builder\builder\obj\Debug\net6.0\builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bohsh\Desktop\visual\Builder\builder\builder\obj\Debug\net6.0\builder.AssemblyInfoInputs.cache
+C:\Users\bohsh\Desktop\visual\Builder\builder\builder\obj\Debug\net6.0\builder.AssemblyInfo.cs
+C:\Users\bohsh\Desktop\visual\Builder\builder\builder\obj\Debug\net6.0\builder.csproj.CoreCompileInputs.cache
+C:\Users\bohsh\Desktop\visual\Builder\builder\builder\obj\Debug\net6.0\builder.dll
+C:\Users\bohsh\Desktop\visual\Builder\builder\builder\obj\Debug\net6.0\ref\builder.dll
+C:\Users\bohsh\Desktop\visual\Builder\builder\builder\obj\Debug\net6.0\builder.pdb
+C:\Users\bohsh\Desktop\visual\Builder\builder\builder\obj\Debug\net6.0\builder.genruntimeconfig.cache
